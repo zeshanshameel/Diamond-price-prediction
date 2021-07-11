@@ -5,7 +5,8 @@ Context:
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
 
 Content:
-price price in US dollars
+
+price : price in US dollars
 
 carat weight of the diamond (0.2--5.01)
 
