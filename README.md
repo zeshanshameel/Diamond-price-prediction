@@ -1,5 +1,5 @@
 # Diamond-price-prediction
-To explore the factors that affect the price of a diamond with a goal of finding a model to help predict the price of diamonds.
+Aim : To explore the factors that affect the price of a diamond with a goal of finding a model to help predict the price of diamonds.
 
 Context:
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
